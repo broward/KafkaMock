@@ -1,2 +1,4 @@
-java -cp  monitor-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.broward.Main brokerid=0
+
+Three mbedded kafka insstances and one zookeeper instance,
+so I can host this on herokuapp in a single application.
 
